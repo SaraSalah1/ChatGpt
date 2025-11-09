@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .nav-items {
+    @apply flex items-center gap-3;
+  } 
+  .btnHover {
+  @apply transition-all duration-200 hover:cursor-pointer;
+}
+
+ .element-center {
+    @apply flex justify-center items-center text-center;
+  }
+ .full-width {
+  @apply w-full flex flex-col space-y-3
+ }
+
+}
+
+body{
+  font-family: "Roboto", sans-serif;
+
+}
