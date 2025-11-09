@@ -84,19 +84,6 @@ A modern React application that mimics a ChatGPT-style interface. Users can inte
 
 ---
 
-## 📸 Screenshots
-
-### ChatGPT Dropdown
-![ChatGPT Dropdown](https://via.placeholder.com/600x400?text=ChatGPT+Dropdown)
-
-### Login/Signup Modal
-![Login Modal](https://via.placeholder.com/600x400?text=Login+Modal)
-
-### Landing Page
-![Landing Page](https://via.placeholder.com/600x400?text=Landing+Page)
-
----
-
 ## 🛠 Installation & Run
 
 - ### Clone the repository
