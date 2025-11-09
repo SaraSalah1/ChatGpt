@@ -56,34 +56,6 @@ A modern React application that mimics a ChatGPT-style interface. Users can inte
 
 ---
 
-# 📝 React ChatGPT Interface
-A modern React application that mimics a ChatGPT-style interface. Users can interact with an advice API, open dropdown menus, access help links, and log in or sign up using a stylish modal. The project demonstrates React component composition, conditional rendering, and responsive UI design.
-
----
-
-## 🚀 Features
-
-- Interactive Chat Input with advice fetching.
-- ChatGPT dropdown menu with card-style content.
-- Login/Signup modal with multiple options (Google, Apple, Microsoft, Phone, Email).
-- Help menu with icon-based links.
-- Responsive layout for desktop and mobile devices.
-- Smooth hover effects and UI transitions.
-- Dropdowns and modals close when clicking outside.
-
----
-
-## 🎨 Technologies Used
-
-- **React.js**  
-- **JavaScript (ES6)**  
-- **Tailwind CSS**  
-- **Material-UI Icons**  
-- **HTML5 & CSS3**  
-- **Fetch API** for external requests  
-
----
-
 ## 🛠 Installation & Run
 
 - ### Clone the repository
@@ -92,7 +64,7 @@ A modern React application that mimics a ChatGPT-style interface. Users can inte
 
 
 - ### Navigate to the project folder
-      cd React-ChatGPT
+      cd ChatGpt
 
 - ### Install dependencies
       npm install
