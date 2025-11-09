@@ -30,23 +30,28 @@ A modern React application that mimics a ChatGPT-style interface. Users can inte
 
 
 ### 1. ChatGPT Dropdown
-![ChatGPT Dropdown](https://via.placeholder.com/600x400?text=ChatGPT+Dropdown)
+<img src="https://github.com/user-attachments/assets/a7f5379e-21d6-44d7-9570-d2adc7d2f375"   alt="ChatGPT Dropdown" width="600" />
+
 *Shows the dropdown menu with card content and "Try advanced features for free".*
 
 ### 2. Login/Signup Modal
-![Login Modal](https://via.placeholder.com/600x400?text=Login+Modal)
+<img src="https://github.com/user-attachments/assets/39f29800-52a1-431e-b5f4-e3cf94a2899c"   alt="Login/Signup Modal" width="600" />
+
 *Shows the modal with options to log in via Google, Apple, Microsoft, Phone, or Email.*
 
 ### 3. Landing Page / Chat Input
-![Landing Page](https://via.placeholder.com/600x400?text=Landing+Page)
+<img src="https://github.com/user-attachments/assets/68be469a-aef8-4872-9e42-f6e379a88f8c"   alt="Landing Page / Chat Input" width="600" />
+
 *Shows the main landing page with input field, arrow send button, and displayed advice.*
 
 ### 4. Help Menu
-![Help Menu](https://via.placeholder.com/600x400?text=Help+Menu)
+<img src="https://github.com/user-attachments/assets/fc30747a-c9c6-408e-9cd5-1b79efdca28d"   alt="Help Menu" width="600" />
+
 *Shows the help icon dropdown with links to Plans, Settings, Help Center, Release Notes, Terms & Policies.*
 
 ### 5. Advice Response Example
-![Advice Response](https://via.placeholder.com/600x400?text=Advice+Response)
+<img src="https://github.com/user-attachments/assets/5fbe95ce-290a-413c-9729-393b2e119124"   alt="Advice Response Example" width="600" />
+
 *Shows an example of a user question and the advice fetched from the API.*
 
 ---
