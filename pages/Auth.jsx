@@ -6,7 +6,8 @@ import HelpIcon from '../src/components/HelpIcon';
 
 const Auth = () => {
   return ( <>
-     <header className='pt-5 fixed top-0 left-0 w-full z-50 transition-all duration-200 px-3 bg-white'>
+  <div className='container'>
+       <header className='pt-5 fixed top-0 left-0 w-full z-50 transition-all duration-200 px-3 bg-white'>
      <div className=' flex justify-between items-center gap-[30px] sm:gap-0'>
       
       <div className='nav-items'>
@@ -26,9 +27,11 @@ const Auth = () => {
       </nav>
      </div>
     </header>    
-
+    
       <Landing/>
       <Footer/>
+  </div>
+  
    </>
   )
 }

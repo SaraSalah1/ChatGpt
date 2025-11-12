@@ -7,7 +7,7 @@ const Landing = () => {
 
   const handleSend = async () => {
     if (!text.trim()) return;
-
+    
     setMessages(prev => [...prev, { type: "user", text }]);
 
     try {
@@ -54,7 +54,7 @@ const Landing = () => {
       </div>
 
       {/* Input box */}
-      <div className={`${messages.length > 0 ? 'fixed bottom-8 left-0 z-50 w-full bg-white px-4 pb-2 shadow-lg' : 'relative w-full'} flex justify-center`}>
+      <div className={`${messages.length > 0 ? 'fixed bottom-8 left-0  w-full bg-white px-4 pb-2 shadow-lg' : 'relative w-full'} flex justify-center`}>
         <div className="w-full md:w-[50%] relative">
           <input
             type="text"
