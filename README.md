@@ -139,7 +139,7 @@ Contributions are welcome! Follow these steps:
 - ---
 
 👩‍💻 **Created by [Sara Salah](https://github.com/SaraSalah1)**  
-📦 [View the project on GitHub](https://github.com/SaraSalah1/To_Do_List)
+📦 [View the project on GitHub](https://github.com/SaraSalah1/ChatGpt)
 
 ---
 
