@@ -102,7 +102,7 @@ const handleSend = async () => {
 ---
 
 👩‍💻 **Created by [Sara Salah](https://github.com/SaraSalah1)**  
-📦 **Project Repository:** [React-ChatGPT](https://github.com/SaraSalah1/React-ChatGPT)
+📦 **Project Repository:** [React-ChatGPT](https://github.com/SaraSalah1/ChatGpt)
 
 ---
 
