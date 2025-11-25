@@ -146,4 +146,4 @@ git push origin feature/YourFeature
 
 ## 📝 License
 
-MIT License
+This project is licensed under the MIT License
