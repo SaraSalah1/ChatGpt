@@ -11,7 +11,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://SaraSalah1.github.io/ChatGpt",
+  "homepage": "https://sarasalah1.github.io/ChatGpt",
   "dependencies": {  
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
